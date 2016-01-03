@@ -1,7 +1,7 @@
 # go-sort
-Sorting Algorithm implemented in golang
+Sorting Algorithms implemented in golang
 
-Example:
+## Example
 ```
 post_l@Ludovics-MacBook-Pro ~/g/s/g/p/go-sort> go run main.go
 The array has 10000 elements
